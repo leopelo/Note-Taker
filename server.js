@@ -4,7 +4,7 @@ const api = require('./routes/index.js');
 
 const PORT = process.env.PORT || 3001;
 const app = express();
-const router = app.Router();
+//const router = app.Router();
 //middleware
 
 app.use(express.json());
