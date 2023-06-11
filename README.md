@@ -11,8 +11,8 @@ N/A
 ## Usage
 
 Here is the layout of the website:
-![pasted image 0 (1)](https://github.com/leopelo/Note-Taker/assets/127148387/5d6eeb89-ff3b-4c37-8d9b-439a4142f0e4)
-![pasted image 0](https://github.com/leopelo/Note-Taker/assets/127148387/14de2321-3a98-45ce-9eed-b3b196abcc48)
+![pasted image 0](https://github.com/leopelo/Password-Generator/assets/127148387/7ce85b72-5ffc-497b-8263-12bc60c62977)
+![pasted image 0 (1)](https://github.com/leopelo/Password-Generator/assets/127148387/4fb18e3c-f4d5-4933-8df5-be2ae28d51d0)
 
 Together with a link to access it: 
 
