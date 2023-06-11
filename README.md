@@ -18,7 +18,7 @@ Together with a link to access it:
 
 The user only needs to press the get started button to access the application. From then they can add a title and body to the note and click on the disk shaped icon on the top right of the screen to save the note. 
 ## Credits
-Support from TAs and the instructor of the class was instrumental in the development of this application.
+Support from TA helped with the development of the app.
 
 ## License
 
